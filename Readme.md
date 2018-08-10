@@ -1,3 +1,8 @@
+## drawback found
+
+* throwing exceptions in business logic
+* slow performans 
+
 ## build
 
 > mvn clean install
